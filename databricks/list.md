@@ -1,0 +1,1 @@
+- [Generative AI Fundamentals](https://credentials.databricks.com/3035cc8d-7ccc-4dc8-bad2-1b055aaba10d#gs.4nbe55)
