@@ -1,3 +1,1 @@
-# certifications
-
-To store my earned certifications that are not hosted by the deliver entity.
+This repot contains my certifications earned by completed online course, sorted by provider.
